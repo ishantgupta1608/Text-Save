@@ -11,7 +11,7 @@ psycopg2 = "*"
 gunicorn = "*"
 psycopg2-binary = "*"
 flask-sqlalchemy = "*"
-azure-blob-storage = "*"
+azure-storage-blob = "*"
 
 [requires]
 python_version = "3.7"
